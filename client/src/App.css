@@ -1,0 +1,20 @@
+body {
+  background: #f3f4f6;
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  max-width: 700px;
+}
+
+.shadow {
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1) !important;
+}
+
+button {
+  transition: all 0.2s ease;
+}
+
+button:hover {
+  transform: scale(1.03);
+}
